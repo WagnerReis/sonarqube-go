@@ -1,0 +1,12 @@
+{"Time":"2024-11-03T10:57:41.064364679-03:00","Action":"run","Package":"sonarqube-go","Test":"TestSumMain"}
+{"Time":"2024-11-03T10:57:41.06450049-03:00","Action":"output","Package":"sonarqube-go","Test":"TestSumMain","Output":"=== RUN   TestSumMain\n"}
+{"Time":"2024-11-03T10:57:41.064512605-03:00","Action":"output","Package":"sonarqube-go","Test":"TestSumMain","Output":"--- PASS: TestSumMain (0.00s)\n"}
+{"Time":"2024-11-03T10:57:41.064516934-03:00","Action":"pass","Package":"sonarqube-go","Test":"TestSumMain","Elapsed":0}
+{"Time":"2024-11-03T10:57:41.064520828-03:00","Action":"run","Package":"sonarqube-go","Test":"TestMain"}
+{"Time":"2024-11-03T10:57:41.064523977-03:00","Action":"output","Package":"sonarqube-go","Test":"TestMain","Output":"=== RUN   TestMain\n"}
+{"Time":"2024-11-03T10:57:41.06452761-03:00","Action":"output","Package":"sonarqube-go","Test":"TestMain","Output":"--- PASS: TestMain (0.00s)\n"}
+{"Time":"2024-11-03T10:57:41.06453045-03:00","Action":"pass","Package":"sonarqube-go","Test":"TestMain","Elapsed":0}
+{"Time":"2024-11-03T10:57:41.064533317-03:00","Action":"output","Package":"sonarqube-go","Output":"PASS\n"}
+{"Time":"2024-11-03T10:57:41.064536349-03:00","Action":"output","Package":"sonarqube-go","Output":"coverage: 100.0% of statements\n"}
+{"Time":"2024-11-03T10:57:41.064727584-03:00","Action":"output","Package":"sonarqube-go","Output":"ok  \tsonarqube-go\t0.002s\tcoverage: 100.0% of statements\n"}
+{"Time":"2024-11-03T10:57:41.064737915-03:00","Action":"pass","Package":"sonarqube-go","Elapsed":0.002}
